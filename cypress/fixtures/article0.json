@@ -1,0 +1,19 @@
+{
+  "article": {
+    "title": "Test",
+    "slug": "test-ywqapy",
+    "body": "Description of test 1",
+    "createdAt": "2021-03-12T14:50:51.391Z",
+    "updatedAt": "2021-03-12T14:50:51.391Z",
+    "tagList": [],
+    "description": "Test 1",
+    "author": {
+      "username": "yjolivier",
+      "bio": null,
+      "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+      "following": false
+    },
+    "favorited": false,
+    "favoritesCount": 99
+  }
+}
